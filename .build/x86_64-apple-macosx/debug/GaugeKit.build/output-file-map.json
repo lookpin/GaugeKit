@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yoonsaegyeol/Desktop/GaugeKit/.build/x86_64-apple-macosx/debug/GaugeKit.build/master.swiftdeps"
+  },
+  "/Users/yoonsaegyeol/Desktop/GaugeKit/Sources/GaugeKit/GaugeKit.swift": {
+    "dependencies": "/Users/yoonsaegyeol/Desktop/GaugeKit/.build/x86_64-apple-macosx/debug/GaugeKit.build/GaugeKit.d",
+    "object": "/Users/yoonsaegyeol/Desktop/GaugeKit/.build/x86_64-apple-macosx/debug/GaugeKit.build/GaugeKit.swift.o",
+    "swiftmodule": "/Users/yoonsaegyeol/Desktop/GaugeKit/.build/x86_64-apple-macosx/debug/GaugeKit.build/GaugeKit~partial.swiftmodule",
+    "swift-dependencies": "/Users/yoonsaegyeol/Desktop/GaugeKit/.build/x86_64-apple-macosx/debug/GaugeKit.build/GaugeKit.swiftdeps"
+  }
+}

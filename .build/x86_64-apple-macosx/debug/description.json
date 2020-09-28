@@ -1,0 +1,19 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "\/Users\/yoonsaegyeol\/Desktop\/GaugeKit\/.build\/x86_64-apple-macosx\/debug\/GaugeKitPackageTests.xctest\/Contents\/MacOS\/GaugeKitPackageTests",
+      "packageName" : "GaugeKit",
+      "productName" : "GaugeKitPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.GaugeKit-debug.module" : "GaugeKit",
+    "C.GaugeKitTests-debug.module" : "GaugeKitTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

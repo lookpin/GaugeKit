@@ -1,0 +1,22 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GaugeKit"
+provides-nominal:
+- "8GaugeKitAAV"
+provides-member:
+- ["8GaugeKitAAV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "GaugeKit"
+- "StringLiteralType"
+depends-member:
+- ["8GaugeKitAAV", "init"]
+- ["8GaugeKitAAV", "text"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "8GaugeKitAAV"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/yoonsaegyeol/Desktop/GaugeKit/.build/x86_64-apple-macosx/debug/GaugeKit.build/module.modulemap"
+interface-hash: "1839568b97445d3ee1065467b39aa6cc"

@@ -1,0 +1,4 @@
+module GaugeKit {
+    header "/Users/yoonsaegyeol/Desktop/GaugeKit/.build/x86_64-apple-macosx/debug/GaugeKit.build/GaugeKit-Swift.h"
+    requires objc
+}

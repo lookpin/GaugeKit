@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "da741536ce084745fe5ce7d07afb352b"
+build_time: [1601279567, 731766000]
+inputs:
+  "/Users/yoonsaegyeol/Desktop/GaugeKit/Sources/GaugeKit/GaugeKit.swift": [1601279561, 555178433]
